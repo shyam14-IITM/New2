@@ -1,0 +1,33 @@
+*{
+    text-align: center;
+}
+
+.outer{
+    /* height: 410px;
+    width: 410px; */
+    margin:0 auto;
+}
+
+.box{
+    background-color: aqua;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    border:5px solid black;
+    border-radius: 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.a{
+    background-color:red;
+}
+.b{
+    background-color: blue;
+}
+.c{
+    background-color:orange;
+}
+.d{
+    background-color:indigo;
+}
+
